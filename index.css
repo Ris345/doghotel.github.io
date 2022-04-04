@@ -1,0 +1,256 @@
+/* html */
+html{
+  font-size: 2rem;
+  background-color: rgb(214, 191, 235); 
+}
+
+/* head */
+.head{
+    display: block;
+}
+
+nav{
+    display: flex;
+    text-align: center;
+    background-color:rgb(147, 214, 211);
+    text-decoration: none;
+    padding: 1%;
+    object-fit:cover;
+    border: 1px solid white;
+    font-family: "Source Serif Pro",sans-serif;
+}
+
+a:hover{
+    color: rgb(187, 16, 73);
+    text-decoration: none;
+}
+
+.bodhotel{
+    max-width: 1095px;
+    min-height: 500px;
+    margin-left: auto ;
+    margin-right: auto;
+    object-fit:fill;
+    overflow:-moz-hidden-unscrollable;
+}
+.hotels{
+    margin-right: 5%;
+    text-decoration: none;
+    color: aquamarine;
+    color: #FC0;
+}
+
+.reservation{
+    margin-right: 5%;
+    text-decoration: none; 
+    color: #FC0;
+}
+
+.about{
+    text-align: center;
+    color: rgb(70, 8, 8);
+    font-family: "Send Flowers", sans-serif;
+    font-size: 2rem;
+}
+
+.us{
+    border: 1px solid white;
+    background-color: rgb(147, 214, 211);
+    margin-top: 10%;
+}
+
+.para{
+    font-family: "Source Serif Pro",sans-serif;
+}
+
+.reviews{
+    color: #FC0;
+    text-decoration: none;
+    margin-right: 5%;
+}
+
+.social{
+    margin-right: 5%;
+    text-decoration: none;
+    color: #FC0;
+}
+
+.East{
+    text-align: center;
+    margin-bottom:1%;
+    margin-top: 5%;
+    position: absolute;
+    display: flex;
+    margin-left: 25%;
+    color: aquamarine;
+    text-shadow: #FC0 1px 0 10px;;
+    font-family:"Send Flowers", sans-serif ;
+}
+/* Body */
+.dogbod{
+   display: flex; 
+   justify-content: space-around;
+}
+.treats{
+    color:rgb(70, 8, 8);
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Send Flowers", sans-serif;
+    font-size: 2rem;
+}
+
+.community{
+    font-family: "Source Serif Pro",sans-serif;
+}
+
+#collection{
+    text-decoration: none;
+}
+img{
+    display: flex;    
+}
+
+.dog{
+    max-width: 300px;
+    max-height: 300px;
+   
+}
+
+.doggy{
+    max-width: 300px;
+    max-height: 300px;
+    
+}
+
+.doggo{
+    max-width: 300px;
+    max-height: 300px;
+    
+}
+
+#collection{
+    color:blue
+}
+
+/* Section 2 */
+
+.hotelbod{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+
+.flower{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.treats{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.walk{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.update{
+   border: 1px solid white;
+   background-color: rgb(147, 214, 211);
+   padding: 2%;
+   font-family: "Source Serif Pro",sans-serif;
+}
+
+.Tony{
+    border: 1px solid white;
+    background-color: brown;
+    padding: 2%;
+}
+
+.doggos{
+    font-family: "Source Serif Pro",sans-serif;
+}
+
+.audience{
+    font-family: "Source Serif Pro",sans-serif;
+}
+
+
+/* Section 3  */
+.hotel{
+    max-height: 900px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pet{
+    text-align: center;
+    color:rgb(70, 8, 8);
+    font-family: "Send Flowers", sans-serif;
+    font-size: 2rem;
+}
+
+
+.holiday{
+    text-align: center;
+    color:rgb(70, 8, 8);
+    font-family: "Send Flowers", sans-serif;
+    font-size: 2rem;
+
+}
+
+button{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    padding: 3%; 
+    border-radius: 20%;
+    font-size: 1rem;
+    background-color: rgb(147, 231, 78);
+    font-family: "Send Flowers", sans-serif;
+}
+
+button:hover{
+   color:chartreuse;
+   cursor: pointer;
+   background-color: crimson;
+}
+/* Footer */
+.foot{
+  display: block; 
+}
+
+.navy{
+    display: flex;
+}
+
+.hotels{
+    margin-right: 5%;
+    text-decoration: none;
+}
+
+.reservation{
+    margin-right: 5%;
+    text-decoration: none;
+}
+
+@media only screen  and (max-height:500px){
+   
+}
+
+@media only screen and (max-width:500px){
+
+}
+
+@media only screen and (min-width:250px){
+
+}
+
+@media screen and (min-height:250px) {
+    
+}
