@@ -14,9 +14,9 @@ This project created for the Codacademy Full Stack Engineering Path. It'a a webs
 concept of fictional Dog Hotel in East Village. It includes images of dogs and hotels.
 
 ## Technologies Used
--HTML5
--CSS
--Mark Down
+- HTML5
+- CSS
+- Mark Down
 
 ## Notes
 [Website]
