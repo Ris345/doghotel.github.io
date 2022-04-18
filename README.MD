@@ -7,7 +7,7 @@
 
 ## Objectives
 
-###Make a responsive website
+##  Make a responsive website
 
 ## General Information
 This project created for the Codacademy Full Stack Engineering Path. It'a a website that is based on the
