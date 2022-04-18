@@ -1,23 +1,23 @@
 
-#CODECADEMY PROJECT
+# CODECADEMY PROJECT
 
-##Responsive website design
+## Responsive website design
 
-###*Dog Hotel Website*
+### *Dog Hotel Website*
 
-##Objectives
+## Objectives
 
--Make a responsive website
+###Make a responsive website
 
-##General Information
+## General Information
 This project created for the Codacademy Full Stack Engineering Path. It'a a website that is based on the
 concept of fictional Dog Hotel in East Village. It includes images of dogs and hotels.
 
-##Technologies Used
+## Technologies Used
 -HTML5
 -CSS
 -Mark Down
 
-Notes-
+## Notes
 [Website]
 (https://ris345.github.io/doghotel.github.io/)
